@@ -1,4 +1,4 @@
-<div><img src="/screenshots/ic_launcher-playstore.png" width="150px"</img></div>
+<div><img src="/screenshots/ic_launcher-playstore.png" width="100px"</img></div>
 # About Me!
 Understanding Linear layout,Scroll View, String resource,Text Styling,<br><br>
 Screenshot
