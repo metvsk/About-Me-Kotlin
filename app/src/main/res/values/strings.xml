@@ -1,3 +1,31 @@
 <resources>
-    <string name="app_name">Linear Layout Kotlin</string>
+    <string name="app_name">About Me</string>
+    <string name="name">Vishnu Sunilkumar</string>
+    <string name="bio">
+        Hi,\n\t My name is Vishnu. \n\n
+       I Love to code.\n\n
+       Last year (2020) read The Alchemist and Listened to Gary Vee, during the initial stage of Covid-19 first wave across the glob\n\n
+
+       There after decided to quit Audit profession(relating to accounting and finance) after 8 years of long journey.\n\n
+
+        And now I am here…\n\n
+
+       Started learning coding tried creating some web apps and published one android application and two games.\n\n
+        Founded a website\n<a href="https://www.chillandcode.com">https://www.chillandcode.com</a> \nto share updates.\n\n
+       I learned a lot during last year from Udemy and Youtube free resources.\n\n
+        Learned following: \n
+          • HTML\n
+          • CSS\n
+          • JavaScript\n
+          • AdobePhotoshop\n
+          • PHP\n
+          • Mongo DB\n
+          • Java\n
+          • MySql\n
+          • C#\n\n
+         I am <b>currently learning KOTLIN </b> so that I can be more productive on the android framework.\n
+         I thank google team mates for the awesome documentation and code labs they have provided.\n
+         If you are a developer learn,learn fast and show off what you can do for the world, wish you all the best.\n\n
+\t\t
+         Thanks for taking the time to read, Have a fantastic day.</string>
 </resources>
