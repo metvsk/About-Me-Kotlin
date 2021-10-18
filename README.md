@@ -3,5 +3,5 @@
 Understanding Linear layout,Scroll View, String resource,Text Styling,<br><br>
 Screenshot
 <div align="center">
-    <img src="/screenshots/shot1.gif" width="400px"</img>
+    <img src="/screenshots/shot1.gif" width="200px"</img>
 </div>
