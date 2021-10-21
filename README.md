@@ -1,3 +1,19 @@
+<div class="row">
+  <div class="column"></div>
+  <div class="column"></div>
+</div>
+.column {
+  float: left;
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
+
 <div><img src="/screenshots/ic_launcher-playstore.png" width="100px"</img></div>
 # About Me!<br>
 Understanding<br>
