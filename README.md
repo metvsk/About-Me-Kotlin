@@ -1,7 +1,3 @@
-<div class="row">
-  <div class="column">Hello </div>
-  <div class="column">Vishnu Sunil</div>
-</div>
 
 <div><img src="/screenshots/ic_launcher-playstore.png" width="100px"</img></div>
 # About Me!<br>
